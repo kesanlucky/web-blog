@@ -246,15 +246,14 @@ button {
 }
 
 .logo {
-    width: 100px;
+    width: 70px;
     overflow: hidden;
-    
     float: left;
 }
 .logo img
 {
-    
     width: 80px;
+    height: 90px;
 }
 
 .bg-light {
