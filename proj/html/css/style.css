@@ -36,7 +36,10 @@ html {
      scroll-behavior: smooth;
      overflow-x: hidden !important;
 }
-
+.nav-ho:hover
+{
+    background-color: red;
+}
 body {
      color: #666666;
      font-size: 14px;
