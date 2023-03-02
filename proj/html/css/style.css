@@ -907,3 +907,20 @@ button {
 .margin_top_90{
   margin-top: 90px;
 }
+.crows
+{
+    display: flex;
+
+}
+.cbox
+{
+    margin: 1rem;
+    width: 400px;
+    height: 250px;
+    overflow: hidden;
+}
+.cbox video
+{
+    width: 350px;
+    height: 250px;
+}
