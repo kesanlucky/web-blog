@@ -1,1 +1,11 @@
-Our computer science department in our MTNC college is a division within a larger faculty of science or computing, dedicated to the study of computer science. The primary aim of our computer science department is to provide students with a strong foundation in the theoretical and practical aspects of computing and technology. This typically includes courses in areas such as algorithms, data structures, programming languages, computer architecture, software engineering, databases, artificial intelligence, human-computer interaction, and more.
+//readmore btn//<div class="moremore_bt"><a href="#">Read More </a></div>/ <div class="moremore_bt"><a href="#">Read More </a></div> /
+
+//<h1 class="what_taital">map</h1>
+<p class="what_text">The map below has the location of our college </p>
+    <div class="maps-cl">
+      <iframe width="710" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" 
+          src="https://maps.google.com/maps?width=710&amp;height=400&amp;
+          hl=en&amp;q=V3VG+FQ7,%20vilachery%20main%20rd%20madurai+(mtnc)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+
+          </iframe><a href='https://maps-generator.com/'></a>
+    </div>
