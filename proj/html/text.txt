@@ -128,3 +128,11 @@
 </temp>
 
 //#f8f9fa
+
+https://kesanlucky.github.io/web-blog/proj/html/contact.html
+
+   \\\<div class="col-md-6 padding_0">
+      <div class="map-responsive">
+        <iframe src="" width="600" height="400" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
+      </div>
+    </div>

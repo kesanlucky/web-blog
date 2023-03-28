@@ -981,3 +981,18 @@ button {
     margin-right: 10px;
     padding-left: 5%;
 }
+
+.home_btn
+{
+    
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #ff5a58;
+    padding: 10px 0px;
+    text-transform: uppercase;
+    border-radius: 30px;
+    width: 170px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
