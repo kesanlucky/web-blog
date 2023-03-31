@@ -136,3 +136,9 @@ https://kesanlucky.github.io/web-blog/proj/html/contact.html
         <iframe src="" width="600" height="400" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
       </div>
     </div>
+
+    ///<div class="view_btn "> <a href="">view </a></div>
+
+     <div class="moremore_bt_1"  ><a href="up_event.html">view </a></div>////
+
+     //<div class="moremore_bt"><a href="#">view </a></div>//

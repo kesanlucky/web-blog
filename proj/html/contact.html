@@ -56,7 +56,7 @@
               </li>
               
               <li class="nav-item text-center">
-                <a class="nav-link" href="duplicate.html">Gallery</a>
+                <a class="nav-link" href="gallery.html">Gallery</a>
               </li>
     
               <li class="nav-item text-center">
@@ -80,7 +80,7 @@
                 <form id="contactform" action="https://formsubmit.io/send/mtnccsblog@gmail.com" method="POST">  
                   <input name="_redirect" type="hidden" id="name" value="https://kesanlucky.github.io/web-blog/proj/html/redirect.html">
                 <input type="text" id= "name" class="mail_text_1" placeholder="Name" name="Name">
-                <input type="number" class="mail_text_1" placeholder="Phone Number" name="Phone Number" id="phone number">
+                <input type="tel" class="mail_text_1" placeholder="Phone Number" name="Phone Number" id="phone number">
                 <input type="text" class="mail_text_1" placeholder="Email" name="Email" id="email">
                 <textarea class="massage_text" placeholder="Message" rows="5" id="comment" name="Message"></textarea>
                 <input name="_formsubmit_id" type="text" style="display:none">     
@@ -124,17 +124,7 @@
     </div>
     <!--footer section end -->
     <!-- Javascript files-->
-    <script>
-      var message = "Content";
-
-      var token = "6000785006:AAHjqu3um8drhZqtCajwe6YxNK9qRnvvd1g";
-          var chat_id = 1762636288;
-          var url = 'https://api.telegram.org/bot${token}/sendMessage?chat_id=${chat_id}text=${message}&parse_mode=html';
-          
-          var oReq = new XMLHttpRequest();
-          oReq.open("GET", url, true);
-          oReq.send();
-    </script>
+   
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
